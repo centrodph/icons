@@ -1,0 +1,94 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?h40f9o');
+  src:  url('fonts/icomoon.eot?h40f9o#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?h40f9o') format('truetype'),
+    url('fonts/icomoon.woff?h40f9o') format('woff'),
+    url('fonts/icomoon.svg?h40f9o#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icomoon-"], [class*=" icomoon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icomoon-logo:before {
+  content: "\e900";
+}
+.icomoon-search:before {
+  content: "\e901";
+}
+.icomoon-connector-library:before {
+  content: "\e902";
+}
+.icomoon-create-assembly:before {
+  content: "\e903";
+}
+.icomoon-connector:before {
+  content: "\e904";
+}
+.icomoon-linkedin .path1:before {
+  content: "\e905";
+  color: rgba(0, 0, 0, 0.8);
+}
+.icomoon-linkedin .path2:before {
+  content: "\e906";
+  margin-left: -1.0078125em;
+  color: rgb(255, 255, 255);
+}
+.icomoon-linkedin .path3:before {
+  content: "\e907";
+  margin-left: -1.0078125em;
+  color: rgb(255, 255, 255);
+}
+.icomoon-close:before {
+  content: "\e908";
+}
+.icomoon-signup:before {
+  content: "\e909";
+}
+.icomoon-industrysolutions:before {
+  content: "\e90a";
+}
+.icomoon-videos:before {
+  content: "\e90b";
+}
+.icomoon-forum:before {
+  content: "\e90c";
+}
+.icomoon-faqs:before {
+  content: "\e90d";
+}
+.icomoon-news-events:before {
+  content: "\e90e";
+}
+.icomoon-customersolutions:before {
+  content: "\e90f";
+}
+.icomoon-contact-us:before {
+  content: "\e910";
+}
+.icomoon-about-us:before {
+  content: "\e911";
+}
+.icomoon-login:before {
+  content: "\e912";
+}
+.icomoon-message:before {
+  content: "\e913";
+}
+.icomoon-path-1334:before {
+  content: "\e914";
+}
